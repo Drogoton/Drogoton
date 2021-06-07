@@ -15,12 +15,6 @@
 
 ---
 
-<details>
-  <summary>:zap: GitHub Stats</summary>
-
-  <img align="left" alt="Drogoton's GitHub Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=Drogoton&show_icons=true&hide_border=true" />
-
-</details>
-
+[![Drogoton's GitHub stats](https://github-readme-stats.vercel.app/api?username=drogoton)](https://github.com/Drogoton/Drogoton)
 [website]: http://dr.nwpixs.com
 [youtube]: https://www.youtube.com/channel/UCz-zElbMg6wpUnqeT7uiz7A
